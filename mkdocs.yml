@@ -1,4 +1,5 @@
 site_name: Enlumox
 pages:
   - [index.md, Home]
+  - [modules.md, Modules]
 theme: readthedocs
