@@ -1,6 +1,6 @@
 site_name: Enlumox
 pages:
   - [index.md, Home]
-  - ['dev/modules.md','Developer Documentation','Modules']
-  - ['dev/devices.md','Developer Documentation','Devices']
+  - ['dev/modules.md','Developer Documentation']
+  - ['dev/devices.md','Developer Documentation']
 theme: readthedocs
