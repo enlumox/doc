@@ -1,0 +1,4 @@
+site_name: Enlumox
+pages:
+  - [index.md, Home]
+theme: readthedocs
