@@ -23,6 +23,7 @@ Functional
 
 | Code |Description |
 |------|:-----------|
+| 1400 | Authentication required (no valid or expired X-Auth-Token was passed) |
 | 1500 | The requested entity was not found |
 | 1501 | Invalid json |
 | 1502 | The "name" field is missing in the json payload | 
