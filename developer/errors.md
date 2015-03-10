@@ -13,6 +13,7 @@ Technical
 
 | Code |Description |
 |------|:------------|
+| 0500 | An error occured with the token service |
 | 1000 | An error occured with the datastore service |
 | 1001 | An error occured with the datastore database |
 | 1002 | An error occured parsing json in the backend |
