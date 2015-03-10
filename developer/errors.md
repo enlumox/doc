@@ -11,7 +11,7 @@ Whenever a non functional error occurs there is also a reference field in the er
 Technical
 ---------
 
-| Code | Description |
+| Code |Description |
 |------|:------------|
 | 1001 | An error occured with the datastore backend |
 | 1002 | An error occured parsing json in the backend |
@@ -20,7 +20,7 @@ Technical
 Functional
 ----------
 
-| Code | Description |
+| Code |Description |
 |------|:-----------|
 | 1500 | The requested entity was not found |
 | 1501 | The "name" field is missing in the json payload | 
