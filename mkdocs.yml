@@ -3,4 +3,5 @@ pages:
   - [index.md, Home]
   - ['developer/modules.md','Developer Documentation', 'Modules']
   - ['developer/devices.md','Developer Documentation', 'Devices']
+  - ['developer/errors.md','Developer Documentation', 'Errors']
 theme: readthedocs
