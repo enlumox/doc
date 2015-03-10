@@ -1,6 +1,3 @@
-Errors
-======
-
 Error responses
 ---------------
 
